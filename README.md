@@ -62,10 +62,11 @@ hello Ilya
 ## Практическое задание
 ____
 ### 1. 
-const ub = 40000;
+```const ub = 40000;
 const vok = 22000;
 console.log(ub + vok);
 <!-- 62000 -->
+```
 
 ### 2. 
 console.log('Владивосток ' + 2000);
