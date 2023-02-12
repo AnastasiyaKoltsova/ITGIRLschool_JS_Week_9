@@ -126,3 +126,5 @@ let celsius = (fahrenheit - 32) / 1.8;
 console.log(`${fahrenheit} градуса по Фаренгейту — это ${celsius} градуса по Цельсию.`);
 <!-- 451 градуса по Фаренгейту — это 232.77777777777777 градуса по Цельсию. -->
 ```
+
+Решение задачи под звездочкой https://codepen.io/AnastasiyaKoltsova/pen/wvxVLaN
